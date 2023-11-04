@@ -344,5 +344,6 @@ pip-selfcheck.json
 .ionide
 .idea
 *.xlsx
+train_data
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,pycharm,visualstudiocode,venv,git
